@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>walmart Releases Nexus Repository</name>
-	      <url>http://3.110.87.117:1088/deepthipariki/repository/walmart-release/</url>
+	      <name>walmart releases nexus repository</name>
+	      <url>http://13.234.213.122:1088/mithuntechnology/repository/walmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart Snapshot Nexus Repository </name>
-	      <url>http://3.110.87.117:1088/deepthipariki/repository/walmart-snopchat/</url>
+	      <url>http://13.234.213.122:1088/mithuntechnology/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
